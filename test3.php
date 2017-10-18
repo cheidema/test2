@@ -1,6 +1,9 @@
 <?php
 function hi
-if (1) {
+if (1)
+{
     echo "Helloworld"
 }
+
+
 return 1;
